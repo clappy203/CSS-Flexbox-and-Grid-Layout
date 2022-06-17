@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #F2F2F2;
+}
+main{
+    height: 100vh;
+    width: 50%;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+   
+}
+
+.first-content{
+    background-color:#E28525 ;
+    font-size: bold;
+    padding-bottom: 10px;
+
+}
+.first-content .h3{
+    font-size: 40%;
+}
+.second-content{
+    background-color:#016972;
+    font-size: bold;
+    padding-bottom: 10px;
+}
+.third-content{
+    background-color:#00403F;
+    font-size: bold;
+    padding-bottom: 10px;
+}
